@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Activity.Tab_uang">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:text="Total Pendapatan"
+        android:fontFamily="@font/tomy"
+        android:textColor="@color/black"
+        android:textSize="8pt"
+        android:id="@+id/fg"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20dp"
+        />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@id/fg"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/gh"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rp"
+            android:fontFamily="@font/tomy"
+            android:textSize="10pt"
+            android:textColor="@color/black"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="500,000"
+            android:fontFamily="@font/tomy"
+            android:textStyle="bold"
+            android:id="@+id/tx_revenue"
+            android:textSize="12pt"
+            android:textColor="@color/black"
+            />
+    </LinearLayout>
+
+    <com.github.mikephil.charting.charts.BarChart
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        app:layout_constraintTop_toBottomOf="@+id/gh"
+        android:layout_marginTop="10dp"
+        android:id="@+id/bar_tran"
+        />
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

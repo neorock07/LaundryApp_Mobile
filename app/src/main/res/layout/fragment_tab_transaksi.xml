@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Activity.Tab_transaksi">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="@color/ijo2"
+        />
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        app:tabIndicatorAnimationMode="elastic"
+        app:tabRippleColor="@color/abu"
+        android:id="@+id/tab_tran"
+        android:layout_margin="10dp"
+        android:layout_marginTop="5dp"
+        app:tabMode="fixed"
+        app:tabPadding="5dp"
+        app:tabIndicatorColor="@color/ijo"
+        android:background="@drawable/back_tab"
+        app:tabGravity="center"
+        app:tabIndicatorHeight="5dp"
+        app:tabIndicatorGravity="stretch"
+        app:tabSelectedTextColor="@color/white"
+        app:tabIndicator="@drawable/bg_tran"
+        android:fitsSystemWindows="true"
+
+        />
+    <androidx.viewpager.widget.ViewPager
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/v_pager"
+        android:layout_marginTop="70dp"
+        />
+
+</FrameLayout>

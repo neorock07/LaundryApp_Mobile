@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/back_select.xml" value="0.1" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/back_tab.xml" value="0.161" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/back_tabs.xml" value="0.1" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/bg_card.xml" value="0.161" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/bg_cd.xml" value="0.161" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/bg_data.xml" value="0.161" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/bg_menu.xml" value="0.1085" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/bg_right.xml" value="0.176" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/bg_time.xml" value="0.157" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/bg_tran.xml" value="0.157" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/bg_tv.xml" value="0.157" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/bg_wa.xml" value="0.161" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/btm_shape.xml" value="0.161" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/circle.xml" value="0.157" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.154" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.154" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/drawable/tab_indk.xml" value="0.1" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_deadline.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_form_pembayaran.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_printer.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_scanner.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_splash.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_tambah_layanan.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/activity_tambah_transaksi.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/bottom_transaksi.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/container_ambil.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/container_baru.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/container_batal.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/container_layanan.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/container_menu.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/container_nota.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/container_proses.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/container_selesai.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/container_tambah_layanan.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/dropdown_paket.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_frag_deadline.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab__home.xml" value="0.23233695652173914" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab__proses.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab_ambil.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab_bar.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab_batal.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab_default.xml" value="0.264" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab_lain.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab_selesai.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab_transaksi.xml" value="0.2644927536231884" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/layout/fragment_tab_uang.xml" value="0.24003623188405798" />
+        <entry key="..\:/Users/MSI/AndroidStudioProjects/LaundryApp/app/src/main/res/menu/menu.xml" value="0.275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

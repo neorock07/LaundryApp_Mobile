@@ -1,0 +1,26 @@
+package com.example.laundryapp.Activity;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+
+import com.example.laundryapp.R;
+
+public class Printer extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_printer);
+
+
+
+
+
+
+
+
+
+
+    }
+}
